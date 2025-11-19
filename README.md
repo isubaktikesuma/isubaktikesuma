@@ -1,4 +1,4 @@
-# 👋 Hi, I'm *Your Name!*  
+# 👋 Hi, I'm Subakti !
 ### 🚀 Android Developer | Game Engine Learner | Passionate Programmer
 
 Welcome to my GitHub profile!  
@@ -7,55 +7,53 @@ Always learning. Always building.
 
 ---
 
-## 🛠️ **Programming Languages & Tools I Use**
+## 🛠️ Languages I Use
+- ☕ Java  
+- 🧡 Kotlin  
+- ➕➕ C++ (Mostly for Android)  
+- 🔣 C (Basic)  
+- 🎮 C# (Basic, Unity)
 
-### **💻 Core Languages**
-- ☕ **Java**  
-- 🧡 **Kotlin**  
-- ➕➕ **C++** (Mostly for Android)  
-- 🔣 **C** (Basic)  
-- 🎮 **C#** (Basic, mostly for Unity)
-
-### **🕹️ Game Engines**
-- 🟩 **Unreal Engine (Learning)**  
-- ⚪ **Unity Engine (Learning)**
+## 🎮 Game Engines
+- 🟩 Unreal Engine (Learning)  
+- ⚪ Unity Engine (Learning)
 
 ---
 
-## 📊 **GitHub Stats**
-
+## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isubaktikesuma&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isubaktikesuma&layout=compact&theme=tokyonight)
 
----
-
-## 🚦 **GitHub Traffic (Last 30 Days)**
-> *(Fill these numbers manually — GitHub provides them under Insights → Traffic)*
-
-- 👀 **Profile Views:** XX  
-- 📥 **Repo Clones:** XX  
-- ⭐ **Total Stars:** XX  
+![GitHub Streak](https://streak-stats.demolab.com?user=isubaktikesuma&theme=tokyonight)
 
 ---
 
-## 🎥 **YouTube Channel Stats**
-> *(Replace with your real data)*
-
-- ▶️ **Total Views:** XX,XXX+  
-- 👥 **Subscribers:** X,XXX+  
-- 🎬 **Videos Uploaded:** XX  
+## 👁️ Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=isubaktikesuma&color=blueviolet&style=for-the-badge)
 
 ---
 
-## 🌐 **Find Me Online**
-- 📺 YouTube: *https://youtube.com/yourchannel*  
-- 🐦 Twitter/X: *https://twitter.com/yourhandle*  
-- 🌍 Portfolio: *yourwebsite.com*  
+# 📈 Dynamic Stats (Auto-Updating)
+
+### **YouTube Channel: SubaktiNihBozzz**
+- 👥 Subscribers: **{{YOUTUBE_SUBS}}**
+- ▶️ Total Views: **{{YOUTUBE_VIEWS}}**
+
+### **GitHub Traffic (Last 30 Days)**
+- 👀 Profile Views: **{{GH_VIEWS}}**
+- 📥 Repo Clones: **{{GH_CLONES}}**
+
+*(These values update automatically every 6 hours.)*
 
 ---
 
-## 💬 **Let’s Connect**
-If you're working on Android apps, C++ tools, or game projects, feel free to reach out!  
-I’m always open to collaboration and new ideas.
+## 🌐 Socials
+- 📺 YouTube: https://www.youtube.com/@SubaktiNihBozzz
+- 🐦 Twitter/X: https://twitter.com/
+- 🌍 Portfolio: Coming soon!
 
+---
+
+## 💬 Let's Connect
+If you're working on Android apps, tools, or game projects, feel free to reach out!
